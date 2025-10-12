@@ -24,10 +24,10 @@
 
 </div>
 
-**Изучаю сейчас:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Mathematics](https://img.shields.io/badge/Математика-8B0000?style=for-the-badge&logo=calculator&logoColor=white)
+**А ещё изучаю сейчас:**
+![Excel](https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Менеджмент](https://img.shields.io/badge/Менеджмент-DB7093?style=for-the-badge&logo=trello&logoColor=white)
+![Теория игр](https://img.shields.io/badge/Теория_игр-C71585?style=for-the-badge&logo=chess&logoColor=white)
 
 
 ### 📚 Мои учебные проекты:
