@@ -41,7 +41,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Написать_письмо-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.yandex.ru/?ncrnd=84495&uid=1218536636#tabs/relevant)
 <p align="center" style="margin-top: -5px; margin-bottom: 15px;">
-  <small><code>✉️ annja2014@yandex.ru</code></small>
+  <small><code>✉️ anna.reshetovaa@yandex.ru</code></small>
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annyaann)
