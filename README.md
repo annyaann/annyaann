@@ -24,9 +24,23 @@
 
 </div>
 
+**Изучаю сейчас:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Математика-8B0000?style=for-the-badge&logo=calculator&logoColor=white)
+
+**Планирую изучить:**
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 📚 Мои учебные проекты:
+
+🔹 **📖 Библиотека книг** - система учета и управления книжным фондом  
+🔹 **💳 Система операций с банковскими счетами** - имитация банковских транзакций
+ 
+
 ### 📫 Свяжитесь со мной для сотрудничества:
 
-[![Telegram](https://img.shields.io/badge/Telegram-@shhs_ann-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shhs_ann)
 [![Email](https://img.shields.io/badge/Email-Написать_письмо-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annyaann)
 
