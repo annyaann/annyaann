@@ -38,7 +38,12 @@
 
 ### 📫 Свяжитесь со мной для сотрудничества:
 
-[![Email](https://img.shields.io/badge/Email-Написать_письмо-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.360.yandex.ru/?ncrnd=77355&uid=1130000067577934#inbox)
+
+[![Email](https://img.shields.io/badge/Email-Написать_письмо-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.yandex.ru/?ncrnd=84495&uid=1218536636#tabs/relevant)
+<p align="center" style="margin-top: -5px; margin-bottom: 15px;">
+  <small><code>✉️ annja2014@yandex.ru</code></small>
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annyaann)
 
 
